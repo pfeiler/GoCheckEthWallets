@@ -12,7 +12,7 @@ import(
 	"fmt"
 )
 
-// yeah, its a key, use it as you want or replace with yours
+// yeah, its a infura access token, use it as you want or replace with yours
 const EthServiceUrl = "https://mainnet.infura.io/6pgDwimM6ABLKOxTxa2j"
 
 func main() {
