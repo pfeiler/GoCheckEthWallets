@@ -2,7 +2,7 @@
 
 Check if random ETH wallets have a balance.
 
-The possibility that this program chooses a wallet with a balance is almost zero (64^36 possibilities).
+The possibility that this program chooses a wallet with a positive balance is almost zero (64^36 possibilities).
 But when it does, it saves the wallet address, private key and the balance into a file balance.txt.
 
 To make this work you have to compile the ethereum-go client first.
