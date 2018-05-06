@@ -1,4 +1,4 @@
-# GoCryptoData
+# GoCheckEthWallets
 
 Check if random ETH wallets have a balance.
 
